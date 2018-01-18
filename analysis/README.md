@@ -1,6 +1,6 @@
 ## Smart City (My Problem) Simulation
 
-(remove: Define what category  (or combination of categories) of simulation needed to solve this problem.)
+
 I would use a combination of agent based and continuous based simulation. 
 
 (remove: Why did you choose this simulation type?)
