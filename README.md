@@ -36,7 +36,7 @@ Some types of data I would need to collect are air quality levels, crime stats, 
 * [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of) N/A
 
 ## Smart City (My Problem) Simulation
-I would use a combination of agent based and continuous based simulation to test my hypothesis of remote controlled robots to reduce crime, trash, and pollution. If the crime, trash, and pollution decreased the pollution the hypothesis is supported. If the crime, trash, and pollution increased or stayed the same the hypothesis would be null. For more information [**(Kamryx Davis)**](analysis/README.md) file in the analysis folder   
+I would use a continuous based simulation to test my hypothesis of remote controlled robots to reduce crime, trash, and pollution. If the crime, trash, and pollution decreased the pollution the hypothesis is supported. If the crime, trash, and pollution increased or stayed the same the hypothesis would be null. For more information [**(Kamryx Davis)**](analysis/README.md) file in the analysis folder   
 
 
 ## Smart City (My Problem) Model
