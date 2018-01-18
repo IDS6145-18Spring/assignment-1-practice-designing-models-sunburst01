@@ -43,4 +43,6 @@ I would use a continuous based simulation to test my hypothesis of remote contro
 [**Code template**](code/README.md) - Starting coding framework for the crime, pollution, and trash in cities.
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
-Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
+
+[**Link To My POTS Model**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) 
+
