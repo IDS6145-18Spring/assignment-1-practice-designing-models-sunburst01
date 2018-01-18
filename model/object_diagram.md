@@ -1,13 +1,14 @@
 ## Smart City (My Problem) Model - Object Diagram
 
-(remove: provide a description of the current model you describe below)
+This diagram contains the objects control, cleanUp, power, surveillance, foilage, pollution, restore, produce, and flowers. 
 
-(remove: use images!!!)
-(remove: I added an example image to illustrate [**how to use Markdown**](https://guides.github.com/features/mastering-markdown/), maybe consider a tool like [**Haroodpad**](http://pad.haroopress.com/user.html) )
 
-![Example Object Diagram](../images/class_example_diagram.png)
+![picture](../images/env.png)
+Source: https://media.defense.gov/2011/Mar/07/2000279938/-1/-1/0/110307-F-PO994-001.JPG
+![picture](../images/examplerobot.png)
 
-(remove: More decription)
-(remove: Maybe a second or third diagram to highlight a point or aspect)
+The object diagram has 9 classes. 
 
-(remove: each diagram markdown file should roughly follow this template)
+
+![Example Object Diagram](../images/Part1ObjectDiagram.png)
+Control class has a cleanUp, power, surveillance, foilage, polution, and restore classes. Porduce and flowers are foilage. 
