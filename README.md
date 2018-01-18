@@ -22,9 +22,8 @@ Some proposed solutions and current solutions for trash, pollution, and crime in
 sources http://selfrepairingcities.com/outputs/robots-resilient-infrastructure/
 
 ## Requirements (Experimental Design)
-Many cities are filled with pollution, trash, and crime. Hypothesis: Smart cities with this remote controlled robot can help reduce these problems of pollution, trash, and crime in cities.
+Many cities are filled with pollution, trash, and crime. Hypothesis: Smart cities with this remote controlled robot can help reduce these problems of pollution, trash, and crime in cities. The requirements are to model a city then to have actual humans controlling the robots in the simulation to see if there is a reduction in crime, pollution, in trash levels in the simulated city. The robot and controller would have to have availability, maintainability, reliability, and security requirements. In the simulation we would have to see how the remote controlled robots handle in different environmental conditions.
 
-I specified a topic Smart Cities but what exactly does that mean-  you should practice formulating your own set of requirements and an experiment. Define a hypothesis of a problem cities face and how a smart city would possibly help alleviate this issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
 
 ## Smart City (My Problem) Model
 Some types of data I would need to collect are air quality levels, crime stats, battery levels, visual and audio data. The control class has a cleanUp class, power class, surveillance class, foilage class, pollution class, and restore class. Foilage has 2 classes, produce and flowers.
