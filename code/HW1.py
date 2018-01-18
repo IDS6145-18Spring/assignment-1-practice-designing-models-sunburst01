@@ -46,5 +46,8 @@ class Restore():
       if self.damages > 100:
         return True
 
-def main():
+print(Power.batterylevel)
+print(Surveillance.crime)
+print(Pollution.airQualityLevels)
+print(Restore.damages)
  
