@@ -1,8 +1,8 @@
 # Assignment1 - Practice Designing Models (Template)
-(remove: **text between brackets to be removed**)
+
 
 > * Participant name: Kamryx Davis
-> * Project Title: (Title of the problem you are looking and modeling)
+> * Project Title: Crime, Pollution, and Trash Reduction with Remote Controlled Robots
 
 ## General Introduction
 
@@ -10,31 +10,38 @@ A **smart city** is an urban area that uses different types of electronic data c
 
 ![Image of Smart City](images/smartcity.png)
 
-(remove: States your motivation clearly: why is it important / interesting to solve this problem?)
-(remove: Add real-world examples, if any)
-(remove: Put the problem into a historical context, from what does it originate? Are there already some proposed solutions?)
+
+It is important to solve the problem of crime, pollution, and trash because thousands of people live in the cities. They are working, living, and helping to cause these conditions. These problems can be seen and have increased during the Industrial Revolution.
+
+
+In 2016 New York City has about 8.5 million people living there. Common sights in N.Y.C. are smoke plumes rising from rooftops and truck exhaust can be smelt. Air pollution can cuase serious health problems including asthma, lung cancer, and heart disease. "The city recently estimated that up to 2,700 premature deaths a year could be attributed to fine particulate matter and ozone in the air—more than eight times the number of murders that took place in 2013." 
+Sources http://blogs.ei.columbia.edu/2016/06/06/air-quality-pollution-new-york-city/
+
+
+Some proposed solutions and current solutions for trash, pollution, and crime in cities are promoting recycling, planting trees, cameras, and robots for resilient infrasruture to make self repairing cities. 
+sources http://selfrepairingcities.com/outputs/robots-resilient-infrastructure/
 
 ## Requirements (Experimental Design)
+Many cities are filled with pollution, trash, and crime. Hypothesis: Smart cities with this remote controlled robot can help reduce these problems of pollution, trash, and crime in cities.
 
-(remove: You should start by specifying a set of requirements. I specified a topic Smart Cities but what exactly does that mean-  you should practice formulating your own set of requirements and an experiment. Define a hypothesis of a problem cities face and how a smart city would possibly help alleviate this issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
+I specified a topic Smart Cities but what exactly does that mean-  you should practice formulating your own set of requirements and an experiment. Define a hypothesis of a problem cities face and how a smart city would possibly help alleviate this issue. This helps you think about your problem communication and system objectives inputs, functions, and outputs - they should be clearly specified.)
 
 ## Smart City (My Problem) Model
+Some types of data I would need to collect are air quality levels, crime stats, battery levels, visual and audio data. The control class has a cleanUp class, power class, surveillance class, foilage class, pollution class, and restore class. Foilage has 2 classes, produce and flowers.
 
-(remove: add a high-level overview of your model, the part below should link to the model directory markdown files)
-(remove: Look at the [**Object Diagram**](model/object_diagram.md) for how to structure this part of Part 2 for each diagram. Only the Object diagram has the template, the rest are blank. )
+
 
 * [**Object Diagram**](model/object_diagram.md) - provides the high level overview of components
 * [**Class Diagram**](model/class_diagram.md) - provides details of (what are you providing details of)
 * [**Behavior Diagram**](model/behavior_diagram.md) - provides details of (what are you providing details of)
-* [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of)
+* [**Agent / User case** (if appropriate)](model/agent_usecase_diagram.md) - provides details of (what are you providing details of) N/A
 
 ## Smart City (My Problem) Simulation
-
-(remove: for part 3 add two to three sentences here and link the [**(your own name)**](model/README.md) file in the analysis folder - which describe how you would simulate this - type of simulation, rough details -inputs, outputs - how it will help you analyze your experimental hypothesis, or nullify your null hypothesis.)
+I would use a combination of agent based and continuous based simulation to test my hypothesis of remote controlled robots to reduce crime, trash, and pollution. If the crime, trash, and pollution decreased the pollution the hypothesis is supported. If the crime, trash, and pollution increased or stayed the same the hypothesis would be null. For more information [**(Kamryx Davis)**](analysis/README.md) file in the analysis folder   
 
 
 ## Smart City (My Problem) Model
-[**Code template**](code/README.md) - Starting coding framework for the (insert your exact problem here.)
+[**Code template**](code/README.md) - Starting coding framework for the crime, pollution, and trash in cities.
 
 ## **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model
 Here [**we provide an overview**](code/POTS_system/README.md) of the **P**ortable **O**rganic **T**rouble-free **S**elf-watering System (**POTS**) Model and provide a source code template.
